@@ -1,0 +1,20 @@
+Pizza Sales Dashboard
+
+This project presents a visual dashboard of pizza sales data from January 15 to December 15.
+
+
+ Key Insights
+- Total Revenue: $817.86K  
+- Average Order Value: $38.31  
+- Total Orders: 21,350  
+- Total Pizzas Sold: 49,574  
+- Average Pizzas per Order: 2.32
+
+ Breakdown
+- Best Sales Day: Friday (3.5K orders)
+- Top Pizza Category: Classic (14,888 sold)
+- Most Popular Size: Large (45.89%)
+
+ Tools Used
+- Power BI / Excel (for visualization)
+- GitHub (for version control & hosting)
